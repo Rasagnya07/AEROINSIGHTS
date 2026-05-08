@@ -3,11 +3,13 @@
 
 
 **Project Overview**
+
 AeroInsights is a web-based Revenue Management Analytics Dashboard developed for the Airlines domain. The project is designed to visualize and analyze airline operational and revenue-related data through an interactive and user-friendly interface. It helps management monitor key business metrics such as revenue trends, passenger occupancy, and route performance using charts, KPI cards, and automated insights.
 The application demonstrates frontend engineering concepts including component-based architecture, state management, API integration, routing, asynchronous data handling, and responsive UI design using React.js.
 
  
  **Abstract**
+ 
 Airlines operate in a highly competitive environment where effective revenue management is essential for profitability. However, analyzing large volumes of operational data—such as ticket sales, passenger load, and route performance—can be complex and time-consuming when not presented in an intuitive format. This creates a need for a system that can simplify data interpretation and support faster, informed decision-making.
 The AeroInsights Dashboard is a web-based frontend application designed to address this challenge by transforming raw airline data into clear, interactive visual insights. The platform presents key performance indicators (KPIs) such as total revenue, total flights, average ticket price, and load factor, providing a quick overview of operational performance. A dynamic revenue trend chart enables users to monitor changes over time, while load factor visualization highlights seat occupancy efficiency.
 Additionally, the system includes an insights panel that automatically generates meaningful observations, such as revenue growth trends and potential underperformance. By combining data visualization with user-friendly design, the dashboard allows airline management and analysts to quickly identify patterns, evaluate performance, and make strategic decisions.
